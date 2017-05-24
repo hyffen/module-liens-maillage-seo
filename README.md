@@ -51,6 +51,7 @@ SearchBios peut s'occuper de setuper les modules de maillage pour vous. Nous ré
 ### A. En javascript
 Nous proposons un format JavaScript afin d'afficher un module de maillage créé et géré dans le Dashboard de SearchBios.
 Vous pouvez configurer en HTML le template du module, et le modifier à distance à tout moment.
+Nous reprenons les éléments de design de votre site comme le CSS.
 Cette méthode permet de créer et diffuser des modules rapidement, en limitant les développements sur le site web.
 
 ### B. Via l'API
