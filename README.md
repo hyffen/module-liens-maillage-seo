@@ -1,4 +1,4 @@
-# maillage
+# Module de maillage SEO
 
 ## 1. Principe de l'outil SEO
 Le module de maillage SEO Searchbios permet de gérer à distance les liens présents dans les modules de maillage SEO.
