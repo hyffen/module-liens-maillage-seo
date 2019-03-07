@@ -26,7 +26,7 @@ Un lien de maillage se compose de :
 - une ancre : mot sur lequel l'internaute clique, comme "cliquez-ici"
 
 ## 2. Configuration du module de maillage
-Pour créer un module de maillage commencez par le configurer en vous rendant sur le [tableau de bord Searchbios](http://dashboard.searchbios.com/links_modules)
+Pour créer un module de maillage commencez par le configurer en vous rendant sur le [tableau de bord Searchbios](https://www.dynamolinks.com/links_modules)
 
 Vous pouvez lui attribuer 
 - un nom (de votre choix) 
