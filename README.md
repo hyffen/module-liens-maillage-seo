@@ -58,14 +58,14 @@ Cette méthode permet de créer et diffuser des modules rapidement, en limitant 
 L'API permet d'envoyer les instructions au site web, avec les liens à afficher pour chaque page, et les ancres à utiliser.
 L'API est disponible via HTTP. De fait tous les languages supportant ce protocole permettent d'appeler l'API. 
 
-- Le point d'API est le suivant : http://dashboard.searchbios.com
+- Le point d'API est le suivant : https://www.dynamolinks.com/
 - La méthode à appeler est "/links/[ID]/generate.json" où ID est l'ID du module tel que présenté sur le dashboard. Par exemple (/links/5/generate.json)
 - Il faut appeler l'API avec la méthode POST
 - En paramètre il faut passer l'URL de la page liante : "url_page_liante". Veillez à bien intégrer le protocole dans l'URL (ex: http://google.com"). Veillez aussi à ce que l'URL soit l'URL exacte de la page est non une redirection (3xx). 
 
 Exemple de requête : 
 POST /links/5/generate.json HTTP/1.1
-Host: dashboard.searchbios.com
+Host: www.dynamolinks.com
 Content-Type: multipart/form-data
 Cache-Control: no-cache
 
