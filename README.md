@@ -1,8 +1,8 @@
 # Module de maillage SEO
 
 ## 1. Principe de l'outil SEO
-Le module de maillage SEO Searchbios permet de gérer à distance les liens présents dans les modules de maillage SEO.
-Les liens sont ajoutés dans une interface (dashboard SearchBios) et envoyés par JS ou API vers les sites web.
+Le module de maillage SEO Dynamolinks permet de gérer à distance les liens présents dans les modules de maillage SEO.
+Les liens sont ajoutés dans une interface en ligne et envoyés par JS ou API vers les sites web.
 Les sites reçoivent des liens et les affichent sur le site dans les modules de maillage.
 
 Intérêts d'un module de maillage SEO : 
@@ -26,7 +26,7 @@ Un lien de maillage se compose de :
 - une ancre : mot sur lequel l'internaute clique, comme "cliquez-ici"
 
 ## 2. Configuration du module de maillage
-Pour créer un module de maillage commencez par le configurer en vous rendant sur le [tableau de bord Searchbios](https://www.dynamolinks.com/links_modules)
+Pour créer un module de maillage commencez par le configurer en vous rendant sur le [tableau de bord](https://www.dynamolinks.com/links_modules)
 
 Vous pouvez lui attribuer 
 - un nom (de votre choix) 
@@ -38,18 +38,18 @@ Vous pouvez lui attribuer
 
 Veillez à bien utiliser les trois champs : libelle, links et url (**en incluant les étoiles**)
 
-## 3. Ajouter les liens dans l'interface SearchBios
+## 3. Ajouter les liens dans l'interface
 Sur votre module de maillage cliquez sur le bouton "liens" :
 ![module de maillage](https://s3.amazonaws.com/awesomescreenshot/upload//181363/2a095b97-c8ee-4d07-5608-35fc0193b86a.png?AWSAccessKeyId=AKIAJSCJQ2NM3XLFPVKA&Expires=1482190088&Signature=KZi%2Bl6Sp7jLv%2BUalbiDJzPu%2FXCo%3D)
 
 Vous pouvez ajouter un lien seul ou plusieurs liens d'un coup.
 
-SearchBios peut s'occuper de setuper les modules de maillage pour vous. Nous récupérons toutes les URL de votre site web, et nous définissons toutes les règles de maillage afin de créer tous les formats de liens pour vous.
+Hyffen peut s'occuper de setuper les modules de maillage pour vous. Nous récupérons toutes les URL de votre site web, et nous définissons toutes les règles de maillage afin de créer tous les formats de liens pour vous.
 
 ## 4. Intégrer le module de maillage SEO sur votre site
 
 ### A. En javascript
-Nous proposons un format JavaScript afin d'afficher un module de maillage créé et géré dans le Dashboard de SearchBios.
+Nous proposons un format JavaScript afin d'afficher un module de maillage créé et géré dans le Dashboard.
 Vous pouvez configurer en HTML le template du module, et le modifier à distance à tout moment.
 Nous reprenons les éléments de design de votre site comme le CSS.
 Cette méthode permet de créer et diffuser des modules rapidement, en limitant les développements sur le site web.
@@ -79,4 +79,4 @@ Sur Wordpress, le module est sous la forme d'un Widget que vous pouvez ajouter e
 - Titre du module de maillage qui va s'afficher sur votre site
 - ID du module de maillage
 
-Nous contacter pour en savoir plus : http://www.searchbios.com/contact.html
+Nous contacter pour en savoir plus : https://www.dynamolinks.com/
